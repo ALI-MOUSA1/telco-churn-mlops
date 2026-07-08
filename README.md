@@ -111,7 +111,7 @@ git init
 git add .
 git commit -m "Complete pipeline: data versioning, MLflow tracking, model registry, Docker deployment"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
+git remote add origin https://github.com/ALI-MOUSA1/telco-churn-mlops.git
 git push -u origin main
 ```
 
