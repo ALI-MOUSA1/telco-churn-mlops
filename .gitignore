@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# MLflow local tracking store & artifacts
+mlruns/
+mlartifacts/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Large generated data (optional: comment out if you want to version data with Git)
+# data/v2/
+# data/v3/
+
+catboost_info/
+mlflow.db
